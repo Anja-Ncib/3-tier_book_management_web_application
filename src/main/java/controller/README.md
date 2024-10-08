@@ -1,1 +1,1 @@
-
+Controller: This component accepts input and converts it into commands for the model or view. It acts as an intermediary between the model and the view, handling user input, invoking changes on the model, and updating the view accordingly. The controller is the decision-maker that directs data between the model and view, and also determines the overall flow of the application
